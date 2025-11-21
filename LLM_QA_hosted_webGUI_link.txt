@@ -1,4 +1,4 @@
 Name: IBRAHIM STEPHANIE FILIMIYAN
 Matric Number: 22CG031863
-Live URL: 
-GitHub Repository: 
+Live URL: https://llm-qa-project-mh1n.onrender.com
+GitHub Repository: https://github.com/Stephanie-ib/LLM_QA_Project.git
